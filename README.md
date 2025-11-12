@@ -1,1 +1,3 @@
-`Models.py` contains the various implementation of the models as classes. `Report.ipynb` contains the work done on the tasks to answer the questions. Before running the notebook, make sure python dependencies are up to date with those listed in `requirements.txt`. Simply running the notebook then will reproduce the results in the same order as presented in the instructions
+`Models.py` contains the implementations from scratch of Linear and Logistic Regression models, as well as a customizable Gradient Descent class. All 3 classes include customization hyperparameters that can be experimented with.
+
+`Report.ipynb` contains the performed experiments and their results.
