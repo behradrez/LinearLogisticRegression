@@ -1,3 +1,5 @@
+# Statistical Models - Linear Regression, Logistic Regression, Gradient Descent
+
 This repository contains a Machine Learning project developing a model that predicts Parkinson's disease progression, as well as breast cancer detection, through the design, training, and validation of Linear and Logistic Regression models, developed from scratch. Various experiments were performed to evaluate and optimize the models' performances.
 
 `Models.py` contains the implementations from scratch of Linear and Logistic Regression models, as well as a customizable Gradient Descent class. All 3 classes include customization hyperparameters that can be experimented with.
